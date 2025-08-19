@@ -28,5 +28,24 @@
 
 ---
 
+## 📊 GitHub Stats
+![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=coolprash06&show_icons=true&theme=radical)
+
+---
+
+## 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=coolprash06&theme=radical)
+
+---
+
+## 📌 Top Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=coolprash06&layout=compact&theme=radical)
+
+---
+
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/feed/)  
+- [LinkedIn](https://www.linkedin.com/in/prashanth-a-469381284/) 
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=coolprash06&color=blue)
