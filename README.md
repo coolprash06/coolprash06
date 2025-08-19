@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋 I'm Prashanth Ananthakrishnan  
 
-<!--
-**coolprash06/coolprash06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Student** at BITS Pilani Dubai Campus (2nd Year)  
+🌐 **Creative Executive** at Google Developer Club (GDG), BITS Pilani Dubai  
+💻 Passionate about **Web Development** and **Artificial Intelligence**  
+☕ Decent experience in **Java**, exploring new technologies every day  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌱 Currently Learning
+- Advanced **Java** concepts  
+- **Frontend Development** (HTML, CSS, JavaScript)  
+- Basics of **Machine Learning** and AI  
+
+---
+
+## 🎯 Goals
+- Build and showcase personal projects on Web Dev & AI  
+- Contribute to open-source communities  
+- Participate in hackathons and grow through collaboration  
+
+---
+
+## 🔧 Tech Skills
+- **Languages**: Java, Python (beginner), C  
+- **Web**: HTML, CSS, JavaScript  
+- **Tools**: Git, GitHub, VS Code, Canva, Animotica, After Effects  
+
+---
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/feed/)  
