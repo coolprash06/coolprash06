@@ -1,7 +1,6 @@
 # Hi there 👋 I'm Prashanth Ananthakrishnan  
 
 🎓 **Computer Science Student** at BITS Pilani Dubai Campus (2nd Year)  
-🌐 **Creative Executive** at Google Developer Club (GDG), BITS Pilani Dubai  
 💻 Passionate about **Web Development** and **Artificial Intelligence**  
 ☕ Decent experience in **Java**, exploring new technologies every day  
 
